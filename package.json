@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/open-sans": "^5.0.12",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express-async-handler": "^1.2.0",
+    "framer-motion": "^10.16.4",
+    "gapi-script": "^1.2.0",
+    "jwt-decode": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.0.1"
+  }
+}
